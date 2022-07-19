@@ -30,7 +30,7 @@ window.onload = () => {
 var models = [
     {
         url: './icon/map-marker.png',
-        scale: '2 2 2',
+        scale: '3 3 3',
         info: 'ATM',
         rotation: '0 90 0',
         position: '0 0 0'
